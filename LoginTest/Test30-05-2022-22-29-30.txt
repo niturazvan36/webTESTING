@@ -1,7 +1,0 @@
-----------
-Test started with:
-Username: razvann
-Password: razva2022
-Path of driver: C:\Program Files (x86)\chromedriver.exe
-
-Adauga persoana fizica cu parametrii test 05/30/2022 timisoara testat cu succes.
