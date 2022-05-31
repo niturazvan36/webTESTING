@@ -1,0 +1,7 @@
+----------
+Test started with:
+Username: laurentiua
+Password: laur2022
+Path of driver: D:\Wolters\chromedriver\chromedriver.exe
+
+Adauga persoana fizica cu parametrii test 12-02-2020 gorj testat cu succes.

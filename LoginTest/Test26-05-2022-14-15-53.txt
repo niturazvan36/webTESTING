@@ -1,0 +1,17 @@
+----------
+Test started with:
+Username: laurentiua
+Password: laur2022
+Path of driver: D:\Wolters\chromedriver\chromedriver.exe
+
+Adauga persoana fizica cu parametrii test 12-02-2001 gorj testat cu succes.
+Adauga persoana juridica cu parametrii test 12-02-2001 gorj testat cu succes.
+Adauga contract persoana fizica cu parametrii test 12-02-2001 gorj testat cu succes.
+Adauga contract persoana juridica cu parametrii test 12-02-2001 gorj testat cu succes.
+Emitere factura contract cu parametrii 123 test testat cu succes.
+Emitere factura client cu parametrii 123 test testat cu succes.
+Emitere factura client cu parametrii 12-02-2001 12:00 testat cu succes.
+Adaugare sarcina noua cu parametrii test test testat cu eroare.
+Adaugare operatie cu parametrii test 123 testat cu succes.
+Adauga persoana fizica cu parametrii Test 12-02-2001 Gorj testat cu succes.
+Adauga persoana fizica cu parametrii Test2 12-01-2001 Gorj testat cu succes.
